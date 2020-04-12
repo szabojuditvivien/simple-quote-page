@@ -1,0 +1,18 @@
+body {
+	background: url('assets/freedom.jpg') no-repeat center center fixed;
+  background-size: cover;
+	text-align: center;
+	width: 90%;
+	margin: 10% auto;
+}
+
+#philosophy {
+	font-family: Arial;
+	font-size: 40px;
+	line-height: 150%;
+}
+
+#author {
+	font-family: times-new-roman;
+	font-size: 20px;
+}
