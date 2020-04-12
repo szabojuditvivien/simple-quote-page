@@ -1,18 +1,22 @@
 body {
-	background: url('assets/freedom.jpg') no-repeat center center fixed;
-  background-size: cover;
+    margin: 0;
+    padding: 0;
+    background: url('assets/freedom.jpg') no-repeat center center fixed;
+    background-size: cover;
 	text-align: center;
-	width: 90%;
+	width: 100%;
+    height: 100vm;
 	margin: 10% auto;
 }
 
 #philosophy {
-	font-family: Arial;
-	font-size: 40px;
+	font-family: 'Julius Sans One', sans-serif;
+    font-size: 2.5rem; 
 	line-height: 150%;
 }
 
 #author {
-	font-family: times-new-roman;
-	font-size: 20px;
+	font-family: 'Crimson Text', serif;
+  font-size: 1.5rem;
+  font-style: italic;font-size: 20px;
 }
